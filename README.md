@@ -1,4 +1,4 @@
-![logo](https://github.com/alokranjan1803/alokranjan1803/blob/main/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f313032393838383036.jpeg)
+
 <h1 align="center">Hi 👋, I'm Alok Ranjan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
