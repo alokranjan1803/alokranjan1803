@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokranjan1803&label=Profile%20views&color=0e75b6&style=flat" alt="alokranjan1803" /> </p>
 
+- 👨‍💻 I’m currently pursuing **Computer Science Engineering**
+
 - 🌱 I’m currently learning **Flutter Development**
 
 
