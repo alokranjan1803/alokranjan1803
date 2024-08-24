@@ -112,7 +112,7 @@
   <li>Adventure Game</li>
   <li>Medication Management UI</li>
   <li>Instagram Clone (Provider, Firebase)</li>
-  <li>Chat App</li>
+  <li>Chat App (Firebase, Provider)</li>
   <li>Wallpaper App</li>
   <li>Food App</li>
   <li>Expense Manager</li>
