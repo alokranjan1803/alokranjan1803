@@ -12,7 +12,7 @@
 </p>
 
 <!-- About Me -->
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **Flutter Development && Web Development(MERN)**
 - 👨‍💻 I’m pursuing **Computer Science Engineering**
 - 📫 How to reach me: **alok1832003@gmail.com**
 
@@ -94,15 +94,15 @@
   </a> 
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokranjan1803&show_icons=true&locale=en" alt="GitHub Stats" width="48%" alt="alokranjan1803" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokranjan1803&" alt="GitHub Streak" width="48%" alt="alokranjan1803"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alokranjan1803&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%" alt="alokranjan1803"/>
-</p>
+### My Github Stats 📊
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alokranjan1803&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alokranjan1803&theme=github_dark&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alokranjan1803&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alokranjan1803&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alokranjan1803&theme=github_dark)
+
+<img src="https://streak-stats.demolab.com/?user=alokranjan1803&theme=dark&hide_border=true&mode=weekly&background=-45%2C000000%2C515151" alt="alokranjan1803" />
 
 ## Flutter Projects
 <ol>
