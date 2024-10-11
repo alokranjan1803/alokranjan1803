@@ -68,6 +68,16 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) 
+![Cloudinary](https://img.shields.io/badge/cloudinary-%2334A853.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Rive](https://img.shields.io/badge/rive-%2300D8FF.svg?style=for-the-badge&logo=rive&logoColor=white) 
+![GetX](https://img.shields.io/badge/getx-%23DC143C.svg?style=for-the-badge&logo=getx&logoColor=white) 
+![Provider](https://img.shields.io/badge/provider-%23007ACC.svg?style=for-the-badge&logo=provider&logoColor=white)
+
+
 
 
 ### My Github Stats 📊
