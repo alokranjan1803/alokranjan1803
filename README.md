@@ -76,6 +76,11 @@
 ![Rive](https://img.shields.io/badge/rive-%2300D8FF.svg?style=for-the-badge&logo=rive&logoColor=white) 
 ![GetX](https://img.shields.io/badge/getx-%23DC143C.svg?style=for-the-badge&logo=getx&logoColor=white) 
 ![Provider](https://img.shields.io/badge/provider-%23007ACC.svg?style=for-the-badge&logo=provider&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 
