@@ -12,7 +12,7 @@
 </p>
 
 <!-- About Me -->
-- 🌱 I’m currently learning ** Web Development(MERN) && Data Analysis**
+- 🌱 I’m currently learning **Web Development(MERN) && Data Analysis**
 - 👨‍💻 I’m pursuing **Computer Science Engineering**
 - 📫 How to reach me: **alok1832003@gmail.com**
 
