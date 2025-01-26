@@ -97,7 +97,8 @@
 
 ## Web Projects
 <ol>
-  <li>Hotel Mingle (ReactJs, NodeJs, ExpressJs, MongoDB, Vercel, Render)</li>
+  <li>Quik Stay (ReactJs, NodeJs, ExpressJs, MongoDB, Vercel, Render)</li>
+  <li>Kanban Board Application (ReactJs, HTML, CSS, Javascript, Vercel)</li>
   <li>Spootiphie (HTML, CSS, Javasript, Webhost Most)</li>
   <li>Netflix UI (HTML, CSS, Vercel)</li>
   <li>Portfolio (HTML, CSS, Javascript)</li>
