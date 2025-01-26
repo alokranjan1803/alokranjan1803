@@ -90,6 +90,15 @@
 
 <img src="https://streak-stats.demolab.com/?user=alokranjan1803&theme=dark&hide_border=true&mode=weekly&background=-45%2C000000%2C515151" alt="alokranjan1803" />
 
+## Web Projects
+<ol>
+  <li>Hotel Mingle (ReactJs, NodeJs, ExpressJs, MongoDB, Vercel, Render)</li>
+  <li>Spootiphie (HTML, CSS, Javasript, Webhost Most)</li>
+  <li>Netflix UI (HTML, CSS, Vercel)</li>
+  <li>Portfolio (HTML, CSS, Javascript)</li>
+  <li>Node Hotels (NodeJs, ExpressJs, MongoDB)</li>
+</ol>
+
 ## Flutter Projects
 <ol>
   <li>DukaanX (NodeJs, ExpressJs, MongoDB, Render)</li>
@@ -104,14 +113,14 @@
   <li>Expense Manager</li>
 </ol>
 
-## Web Projects
+## Data Analysis Project
 <ol>
-  <li>Hotel Mingle (ReactJs, NodeJs, ExpressJs, MongoDB, Vercel, Render)</li>
-  <li>Spootiphie (HTML, CSS, Javasript, Webhost Most)</li>
-  <li>Netflix UI (HTML, CSS, Vercel)</li>
-  <li>Portfolio (HTML, CSS, Javascript)</li>
-  <li>Node Hotels (NodeJs, ExpressJs, MongoDB)</li>
+  <li>Credit_Card_Dashboard (PowerBI, PostgresSQL)</li>
+  <li>World Cup Analysis 2024 (Python, Numpy, Pandas, Matplotlib, Seaborn, Jupyter Notebook)</li>
+  
 </ol>
+
+
 
 ## Other
 <ol>
