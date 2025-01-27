@@ -23,7 +23,7 @@
     <img align="center" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Linkedin-icon.png" alt="alok-ranjan-bb0685179" height="40" width="40" />
   </a>
   &nbsp; &nbsp; &nbsp;
-  <a href="https://instagram.com/alok1832003" target="blank">
+  <a href="https://www.instagram.com/alok.r018" target="blank">
     <img align="center" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Instagram-icon.png" alt="alok1832003" height="40" width="40" />
   </a>
   &nbsp; &nbsp; &nbsp;
